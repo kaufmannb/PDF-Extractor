@@ -75,3 +75,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [scikit-learn](https://scikit-learn.org/)
 - [pandas](https://pandas.pydata.org/)
 
+## Workflow
+![Workflow Diagram](./screenshots/Flowchart.png)
+
