@@ -60,6 +60,8 @@ You have two options for installing and using the PDF Data Extractor:
 
 10. Once the processing is complete, a success message will be displayed, indicating that the Excel file has been generated.
 
+## Workflow
+<img src="screenshots/Flowchart.png" width="500">
 
 ## Contributing
 
@@ -75,6 +77,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [scikit-learn](https://scikit-learn.org/)
 - [pandas](https://pandas.pydata.org/)
 
-## Workflow
-![Workflow Diagram](/screenshots/Flowchart.png)
+
 
