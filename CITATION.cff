@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kaufmann"
+  given-names: "Basil"
+  orcid: "https://orcid.org/0000-0001-6965-449X"
+- family-names: "Gorin"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-8315-6603"
+title: "PDF Data Extractor"
+version: 1.0
+doi: 
+date-released: 2023-07-05
+url: "https://github.com/kaufmannb/PDF-Data-Extractor"
