@@ -14,7 +14,7 @@ The PDF Report Data Extractor is a Python application that enables you to extrac
 
 Before running the application, ensure that you have the following prerequisites:
 
-- Python 3.x installed on your system
+- Python 3.10 or later installed on your system
 - Required Python packages installed (specified in `requirements.txt`)
 - An OpenAI API key for utilizing the OpenAI GPT model (get your key at [OpenAI Platform](https://platform.openai.com/account/api-keys))
 
@@ -44,7 +44,7 @@ You have two options for installing and using the PDF Data Extractor:
 
 2. The application GUI will appear.
 
-3. Click the "Browse Input Folder" button to select the folder containing the PDF reports to analyze.
+3. Click the "Browse Input Folder" button to select the folder containing the PDF files to analyze.
 
 4. Click the "Browse Output Folder" button to choose the folder where the final Excel file will be saved.
 
