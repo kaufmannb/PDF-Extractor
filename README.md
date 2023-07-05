@@ -76,5 +76,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [pandas](https://pandas.pydata.org/)
 
 ## Workflow
-![Workflow Diagram](./screenshots/Flowchart.png)
+![Workflow Diagram](/screenshots/Flowchart.png)
 
