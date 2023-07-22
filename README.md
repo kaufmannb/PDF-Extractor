@@ -70,12 +70,3 @@ Contributions to the PDF Report Data Extractor project are welcome! If you find 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- [OpenAI GPT](https://platform.openai.com/models/chatgpt)
-- [scikit-learn](https://scikit-learn.org/)
-- [pandas](https://pandas.pydata.org/)
-
-
-
