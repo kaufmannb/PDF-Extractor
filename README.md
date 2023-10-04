@@ -34,7 +34,7 @@ You have two options for installing and using the PDF Data Extractor:
 
 ### Option 2: Using the Executable File
 
-1. Download the executable file from [PDF Extractor](https://drive.google.com/open?id=1L5HLhoTVgi3ffxGBLRt3RW86BjYEcKJ-&usp=drive_fs) (680 MB).
+1. Download the executable file from [PDF Extractor](https://rebrand.ly/PDFExtractor) (680 MB).
 
 2. Run the executable file to install the application.
 
